@@ -1,22 +1,19 @@
-# 👋 Welcome to My Coding Odyssey!
+# Hello There! Or shall I say greetings?
 
-## Greetings, Fellow Explorer of Possibilities! 🌟
+My name is Muiz Haruna, a Nigerian who builds beautiful yet functional user interfaces, and I know a couple of ways to get the job done.
 
-I'm Muiz Haruna | DEVDESIIGNN 🌵, a curious Frontend Developer \ Tech Writer with a passion for crafting digital wonders. This is my digital sanctuary, where code and creativity converge.
+I am currently learning all I need to know so as to be an established frontend developer or software engineer.
 
-## 📝 Penning Thoughts on Code
+The road is long, but it's worth it as I am REALLY interested in building great stuff and will go into smart agriculture (agriculture + tech) after making lots of money. 😅
 
-In addition to crafting code, I share insights on Hashnode and Medium:
+I'm interested in robotics as a field and will go into that later when it is right, but currently I don't even know how to solder. LOL.
 
-- 📖 Explore my articles on [Hashnode](https://hashnode.com/@devdesiignn).
-- ✍️ Read my writings on [Medium](https://medium.com/@devdesiignn).
+I love **books—print versions**, hardcover software engineering books, self-development books, and mostly **SWAGSSS**.
 
-## 🌐 Let's Connect and Elevate
+I write articles on [Medium](https://medium.com/@devdesiignn) and [Hashnode](https://hashnode.com/@devdesiignn); you can check them out later.
 
-Let's ignite a conversation about innovation:
+You can reach out to me for work via [Email](mailto:hmuiyze@gmail.com).
 
-- 📧 [Email](mailto:hmuiyze@gmail.com) - Reach out anytime.
-- 💼 [LinkedIn](https://www.linkedin.com/in/devdesiignn) - Let's synergize.
-- 💬 [Twitter](https://twitter.com/devdesiignn) - Catch up with me.
+I know HTML5, CSS3, JavaScript, ReactJS, TailwindCSS, Wordpress, Webflow, and Framer, plus I have a background in interface design.
 
-Embark on a journey of transformation and creation with me! Together, we'll shape digital brilliance. 🚀
+Bye for now; see you around.
