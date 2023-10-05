@@ -1,4 +1,4 @@
-# Hello There! Or shall I say "_greetings_"?
+# Hello There! Or shall I say "__greetings__"?
 
 My name is Muiz Haruna, a Nigerian who builds beautiful yet functional user interfaces, and I know a couple of ways to get the job done.
 
