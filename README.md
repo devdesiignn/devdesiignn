@@ -4,7 +4,7 @@
 
 # <p align="center"> Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px">, I'm Muizzz (devdesiignn) </p>
 
-### <p align="center"> A lifelong learner dedicated to mastering JavaScript </p>
+### <p align="center"> A lifelong learner dedicated to mastering Software Engineering </p>
 
 <p align="center"> 
   <a href="https://twitter.com/devdesiignn" target="blank">
