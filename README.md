@@ -4,7 +4,7 @@
 
 # <p align="center"> Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px">, I'm Muizzz (DEVDESIIGNN) </p>
 
-### <p align="center"> I'm here to build exciting projects </p>
+### <p align="center"> Currently offline, Building what you'd see and use online. </p>
 
 <p align="center"> 
   <a href="https://twitter.com/dev_desiignn" target="blank">
