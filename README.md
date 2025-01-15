@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Muizzz
 
-I’m a software engineer who loves building great web experiences with React and Next.js. I’m skilled at turning design mockups into high-performance, responsive web applications. Writing clean, maintainable code is something I truly care about.
-
-Right now, I’m building the frontend architecture for a housing marketplace platform at BigoStack. I’m also actively learning frontend best practices and constantly exploring new technologies.
+I’m a software engineer who loves building great web experiences. I’m skilled at turning design mockups into high-performance, responsive web applications. Writing clean, maintainable code is something I truly care about. I’m also constantly learning frontend best practices and constantly exploring new technologies.
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Next.js, TypeScript, JavaScript
