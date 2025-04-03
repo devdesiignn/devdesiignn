@@ -10,7 +10,7 @@ I’m a software engineer who loves building great web experiences. I’m skille
 ## 🤝 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/devdesiignn/)
 - 🐦 [Twitter/X](https://x.com/devdesiignn/)
-- 🌐 [Portfolio](https://devdesiignn.me/)
+- 🌐 [Portfolio](https://www.muizzz.dev/)
 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
